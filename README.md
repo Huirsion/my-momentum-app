@@ -1,2 +1,2 @@
 # my-momentum-app
-first repo project
+JS challenge
